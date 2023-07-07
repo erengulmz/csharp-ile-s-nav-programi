@@ -1,0 +1,17 @@
+C:\Users\EREN\Desktop\OnlineDersler\Projele\ecemkokluodev\2015101060EcemKoklu\sinavprogrami\bin\Debug\net6.0-windows\sinavapp.exe
+C:\Users\EREN\Desktop\OnlineDersler\Projele\ecemkokluodev\2015101060EcemKoklu\sinavprogrami\bin\Debug\net6.0-windows\sinavapp.deps.json
+C:\Users\EREN\Desktop\OnlineDersler\Projele\ecemkokluodev\2015101060EcemKoklu\sinavprogrami\bin\Debug\net6.0-windows\sinavapp.runtimeconfig.json
+C:\Users\EREN\Desktop\OnlineDersler\Projele\ecemkokluodev\2015101060EcemKoklu\sinavprogrami\bin\Debug\net6.0-windows\sinavapp.dll
+C:\Users\EREN\Desktop\OnlineDersler\Projele\ecemkokluodev\2015101060EcemKoklu\sinavprogrami\bin\Debug\net6.0-windows\sinavapp.pdb
+C:\Users\EREN\Desktop\OnlineDersler\Projele\ecemkokluodev\2015101060EcemKoklu\sinavprogrami\obj\Debug\net6.0-windows\sinavapp.csproj.AssemblyReference.cache
+C:\Users\EREN\Desktop\OnlineDersler\Projele\ecemkokluodev\2015101060EcemKoklu\sinavprogrami\obj\Debug\net6.0-windows\sinavprogrami.Form1.resources
+C:\Users\EREN\Desktop\OnlineDersler\Projele\ecemkokluodev\2015101060EcemKoklu\sinavprogrami\obj\Debug\net6.0-windows\sinavapp.csproj.GenerateResource.cache
+C:\Users\EREN\Desktop\OnlineDersler\Projele\ecemkokluodev\2015101060EcemKoklu\sinavprogrami\obj\Debug\net6.0-windows\sinavapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EREN\Desktop\OnlineDersler\Projele\ecemkokluodev\2015101060EcemKoklu\sinavprogrami\obj\Debug\net6.0-windows\sinavapp.AssemblyInfoInputs.cache
+C:\Users\EREN\Desktop\OnlineDersler\Projele\ecemkokluodev\2015101060EcemKoklu\sinavprogrami\obj\Debug\net6.0-windows\sinavapp.AssemblyInfo.cs
+C:\Users\EREN\Desktop\OnlineDersler\Projele\ecemkokluodev\2015101060EcemKoklu\sinavprogrami\obj\Debug\net6.0-windows\sinavapp.csproj.CoreCompileInputs.cache
+C:\Users\EREN\Desktop\OnlineDersler\Projele\ecemkokluodev\2015101060EcemKoklu\sinavprogrami\obj\Debug\net6.0-windows\sinavapp.dll
+C:\Users\EREN\Desktop\OnlineDersler\Projele\ecemkokluodev\2015101060EcemKoklu\sinavprogrami\obj\Debug\net6.0-windows\refint\sinavapp.dll
+C:\Users\EREN\Desktop\OnlineDersler\Projele\ecemkokluodev\2015101060EcemKoklu\sinavprogrami\obj\Debug\net6.0-windows\sinavapp.pdb
+C:\Users\EREN\Desktop\OnlineDersler\Projele\ecemkokluodev\2015101060EcemKoklu\sinavprogrami\obj\Debug\net6.0-windows\sinavapp.genruntimeconfig.cache
+C:\Users\EREN\Desktop\OnlineDersler\Projele\ecemkokluodev\2015101060EcemKoklu\sinavprogrami\obj\Debug\net6.0-windows\ref\sinavapp.dll
